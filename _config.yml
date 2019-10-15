@@ -1,4 +1,5 @@
-layout: sidebar
+layout: stacked 
+# stacked sidebar
 style: dark
 
 plugins:
